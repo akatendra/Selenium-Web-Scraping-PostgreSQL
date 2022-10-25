@@ -1,11 +1,11 @@
-# Web Scraping with Selenium and save into PostgreSQL DB #
-Web Scraping site for information on real estate sales and saving scraped info into PostgreSQL database. Learning project.
+# Front-end for Web Scraping with Selenium and save into PostgreSQL DB #
+Visualisation for results of Web Scraping. Scraper get information on real estate sales and saving scraped info into PostgreSQL database. Learning project.
 ***
 ### The project is built on libraries: ###
-Selenium
+aiohttp
 
-BeautifulSoup
+jinja2
 
-psycopg2
+aiohttp_jinja2
 
 ***
