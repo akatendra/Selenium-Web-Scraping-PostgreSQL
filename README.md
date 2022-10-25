@@ -9,3 +9,6 @@ jinja2
 aiohttp_jinja2
 
 ***
+For scraper source see:
+
+https://github.com/akatendra/Silenium-Web-Scraping-PostgreSQL-VPS
